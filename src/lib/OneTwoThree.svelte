@@ -9,8 +9,8 @@
               class="h-56 w-full rounded-xl object-cover shadow-xl transition group-hover:grayscale-[50%]"
             />
             <div class="p-4">
-              <h3 class="text-lg font-medium text-base-100 font-raleway">Finding the Journey to Mordor</h3>
-              <p class="mt-2 line-clamp-3 text-sm/relaxed text-base-100 font-overpass">
+              <h3 class="text-xl font-medium text-base-100 font-raleway">Finding the Journey to Mordor</h3>
+              <p class="mt-2 line-clamp-3 text-md/relaxed text-base-100 font-overpass">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus
                 pariatur animi temporibus nesciunt praesentium dolore sed nulla ipsum eveniet corporis quidem,
                 mollitia itaque minus soluta, voluptates neque explicabo tempora nisi culpa eius atque
@@ -27,8 +27,8 @@
               class="h-56 w-full rounded-xl object-cover shadow-xl transition group-hover:grayscale-[50%]"
             />
             <div class="p-4">
-              <h3 class="text-lg font-medium text-base-100 font-raleway">Finding the Journey to Mordor</h3>
-              <p class="mt-2 line-clamp-3 text-sm/relaxed text-base-100 font-overpass">
+              <h3 class="text-xl font-medium text-base-100 font-raleway">Finding the Journey to Mordor</h3>
+              <p class="mt-2 line-clamp-3 text-md/relaxed text-base-100 font-overpass">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus
                 pariatur animi temporibus nesciunt praesentium dolore sed nulla ipsum eveniet corporis quidem,
                 mollitia itaque minus soluta, voluptates neque explicabo tempora nisi culpa eius atque
@@ -45,8 +45,8 @@
               class="h-56 w-full rounded-xl object-cover shadow-xl transition group-hover:grayscale-[50%]"
             />
             <div class="p-4">
-              <h3 class="text-lg font-medium text-base-100 font-raleway">Finding the Journey to Mordor</h3>
-              <p class="mt-2 line-clamp-3 text-sm/relaxed text-base-100 font-raleway">
+              <h3 class="text-xl font-medium text-base-100 font-raleway">Finding the Journey to Mordor</h3>
+              <p class="mt-2 line-clamp-3 text-md/relaxed text-base-100 font-overpass">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus
                 pariatur animi temporibus nesciunt praesentium dolore sed nulla ipsum eveniet corporis quidem,
                 mollitia itaque minus soluta, voluptates neque explicabo tempora nisi culpa eius atque

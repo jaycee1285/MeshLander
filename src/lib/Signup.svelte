@@ -5,7 +5,7 @@
           Lorem, ipsum dolor sit amet consectetur adipisicing elit
         </h2>
   
-        <p class="hidden text-gray-700 sm:mt-4 sm:block font-overpass">
+        <p class="hidden text-gray-700 sm:mt-4 sm:block text-md font-overpass">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolor officia blanditiis
           repellat in, vero, aperiam porro ipsum laboriosam consequuntur exercitationem incidunt
           tempora nisi?
