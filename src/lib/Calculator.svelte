@@ -8,8 +8,8 @@
   
   <div class="min-h-screen bg-base-100 flex flex-col items-center justify-center outline-secondary p-4">
     <div class="prose text-center mb-8">
-      <h1>Appointment Setting ROI Calculator</h1>
-      <p class="font-overpass text-xl">How much time and money can you save with our solution? Use the sliders to see your potential savings.</p>
+      <h1>How Expensive Are Your Meetings?</h1>
+      <p class="font-overpass text-xl">Let's add up how much it costs you to keep your current meeting schedule.</p>
     </div>
     <div class="flex flex-col lg:flex-row w-full max-w-4xl items-center bg-base-100 rounded-lg shadow-xl p-4">
       <div class="w-full lg:w-1/2 p-4">
@@ -56,7 +56,7 @@
           <div class="stat-title">Bottom Line</div>
           <div class="stat-value text-secondary">${bottomLine}</div>
         </div>
-        <button class="btn btn-primary mt-8">Discuss Pricing</button>
+        <button class="btn btn-primary mt-8">It's Time for a New Meeting Strategy</button>
       </div>
     </div>
   </div>
