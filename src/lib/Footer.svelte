@@ -2,7 +2,7 @@
     <div class="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 lg:px-8">
       <div class="sm:flex sm:items-center sm:justify-between">
         <div class="flex justify-center text-teal-600 sm:justify-start">
-          <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+          <svg version="1.1" id="Layer_1" class="h-[75px] w-auto" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
           width="100%" viewBox="0 0 697 467" enable-background="new 0 0 697 467" xml:space="preserve">
        <path fill="#FFFFFF" opacity="1.000000" stroke="none" 
          d="
